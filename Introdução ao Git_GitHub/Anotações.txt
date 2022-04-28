@@ -1,0 +1,11 @@
+Comandos básicos para manutenção do GIT via cmd:
+
+git init -> é um comando único que você usa durante a configuração inicial de um novo repositório.
+git clone -> é usado para copiar um repositório Git existente em um novo diretório local.
+git add -> adiciona uma alteração no diretório ativo à área de staging.
+git status-> exibe as condições do diretório de trabalho e da área de staging.
+git commit-> é usado para criar um instantâneo das alterações preparadas em um cronograma de um histórico de projetos do Git.
+git rm -> é usado para remover um arquivo de um repositório do git.
+git mv-> movendo o arquivo para um novo local.
+git push-> é usado para enviar o conteúdo do repositório local para um repositório remoto.
+
